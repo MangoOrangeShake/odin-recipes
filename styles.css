@@ -1,0 +1,20 @@
+.header {
+  text-align: center;
+  background-color: #0fbddb;
+  color: black;
+  font-size: 50px;
+}
+
+.tagline {
+  background-color: black;
+  color: beige;
+  font-size: 30px;
+}
+
+li {
+  color: fuchsia;
+  background-color: lightyellow;
+  text-align: right;
+  font-style: oblique;
+  font-weight: bolder;
+}
